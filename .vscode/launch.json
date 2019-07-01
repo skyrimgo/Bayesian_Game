@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bayesian",
+            "request": "launch",
+            "mainClass": "com.szy.lstm.Bayesian",
+            "projectName": "lstmgame_57c21f79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LSTM",
+            "request": "launch",
+            "mainClass": "com.szy.lstm.LSTM",
+            "projectName": "lstmgame_57c21f79"
+        }
+    ]
+}
